@@ -1,0 +1,16 @@
+{
+  "name": "urlparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Tony Blanco",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
